@@ -298,3 +298,23 @@
   level: 'error',
   timestamp: '2023-09-15T19:52:54.416Z'
 }
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T21:37:20.336Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T21:37:20.349Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T21:37:43.515Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T21:37:43.531Z'
+}

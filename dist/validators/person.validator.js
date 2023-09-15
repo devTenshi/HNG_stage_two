@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.UpdatePersonDto = exports.NameDto = exports.CreatePersonDto = void 0;
+exports.UpdatePersonDto = exports.fullNameDto = exports.CreatePersonDto = void 0;
 const zod_1 = require("zod");
 exports.CreatePersonDto = zod_1.z.object({
     body: zod_1.z.object({
@@ -22,7 +22,7 @@ exports.CreatePersonDto = zod_1.z.object({
         age: zod_1.z.number().int().min(0).max(100),
     }),
 });
-exports.NameDto = zod_1.z.object({
+exports.fullNameDto = zod_1.z.object({
     query: zod_1.z.object({
         Name: zod_1.z
             .string()
