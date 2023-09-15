@@ -318,3 +318,33 @@
   level: 'debug',
   timestamp: '2023-09-15T21:37:43.531Z'
 }
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T21:45:44.611Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T21:45:44.624Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T21:46:03.975Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T21:46:03.986Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T21:54:55.051Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T21:54:55.063Z'
+}
