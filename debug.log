@@ -1,0 +1,300 @@
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:18:49.445Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:18:49.458Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:19:17.260Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:19:17.276Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:39:27.214Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:39:27.230Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:39:49.071Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:39:49.084Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:43:44.667Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:43:44.687Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:44:07.288Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:44:07.303Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:46:15.367Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:46:15.382Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:46:39.474Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:46:39.496Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:49:39.709Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:49:39.729Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:50:08.805Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:50:08.826Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:51:16.409Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:51:16.427Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T16:51:41.819Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T16:51:41.832Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T17:18:25.353Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T17:18:25.373Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T17:18:55.647Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T17:18:55.665Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T17:26:56.600Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T17:26:56.619Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T17:27:20.320Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T17:27:20.337Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T17:30:24.159Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T17:30:24.175Z'
+}
+{
+  name: 'Error',
+  statusCode: 400,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T17:33:18.555Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T19:44:21.792Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T19:44:21.941Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T19:44:34.400Z'
+}
+{
+  matcherResult: {
+    actual: 404,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m404\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T19:44:34.746Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T19:52:47.425Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T19:52:47.533Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T19:52:53.306Z'
+}
+{
+  matcherResult: {
+    actual: 404,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m404\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T19:52:53.413Z'
+}
+{
+  name: 'Error',
+  statusCode: 400,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T19:52:53.792Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T19:52:53.868Z'
+}
+{
+  matcherResult: {
+    actual: 404,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m404\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T19:52:53.971Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T19:52:54.341Z'
+}
+{
+  matcherResult: {
+    actual: 404,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m404\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T19:52:54.416Z'
+}
