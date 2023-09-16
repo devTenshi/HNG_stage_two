@@ -348,3 +348,883 @@
   level: 'debug',
   timestamp: '2023-09-15T21:54:55.063Z'
 }
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:36:48.010Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:36:48.032Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:39:05.641Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:39:05.662Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:39:10.448Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:39:10.465Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:48:06.687Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:48:06.707Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:48:13.553Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:48:13.568Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:48:27.018Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:48:27.046Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:54:22.890Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:54:22.910Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:54:31.397Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:54:31.476Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:54:37.645Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:54:37.696Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:54:42.053Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:54:42.087Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:54:46.092Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:54:46.112Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:54:49.308Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:54:49.320Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:55:05.976Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:55:05.988Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:55:21.097Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:55:21.118Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:55:25.487Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:55:25.514Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:55:32.940Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:55:32.956Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:55:37.329Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:55:37.349Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:55:40.249Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:55:40.267Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T22:56:12.829Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T22:56:12.870Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:27:24.718Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:27:24.746Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:27:36.466Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:27:36.485Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:27:51.553Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:27:51.571Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:27:54.867Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:27:54.878Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:28:16.508Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:28:16.523Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:30:00.157Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:30:00.175Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:30:07.926Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:30:07.953Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:30:14.859Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:30:14.887Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:30:21.405Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:30:21.424Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:30:25.345Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:30:25.363Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:32:08.428Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:32:08.448Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:32:19.775Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:32:19.795Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:32:23.879Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:32:23.894Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:32:44.743Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:32:44.753Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:32:52.314Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:32:52.327Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:33:09.262Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:33:09.283Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:33:14.984Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:33:14.995Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:34:28.170Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:34:28.193Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:36:50.733Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:36:50.744Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:37:27.613Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:37:27.643Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:37:31.864Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:37:31.877Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:37:35.412Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:37:35.426Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:37:39.301Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:37:39.318Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:38:41.777Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:38:41.793Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:39:30.573Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:39:30.590Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:39:47.270Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:39:47.298Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:39:53.655Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:39:53.677Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:39:57.191Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:39:57.203Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:41:41.279Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:41:41.292Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:42:18.762Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:42:18.776Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:43:06.946Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:43:06.969Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:43:11.825Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:43:11.900Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:43:18.670Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:43:18.704Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:43:23.825Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:43:23.856Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:43:33.008Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:43:33.029Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:43:51.812Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:43:51.854Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:43:57.037Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:43:57.084Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:44:02.133Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:44:02.179Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:44:06.483Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:44:06.516Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:44:12.053Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:44:12.075Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:44:18.319Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:44:18.348Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:44:25.796Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:44:25.815Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:44:29.560Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:44:29.571Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:44:41.536Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:44:41.554Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:44:44.799Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:44:44.810Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:45:19.288Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:45:19.300Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:45:44.448Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:45:44.494Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:46:38.222Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:46:38.234Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:47:00.555Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:47:00.566Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:47:26.948Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:47:26.963Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:47:35.957Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:47:35.977Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:47:42.371Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:47:42.400Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:47:46.456Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:47:46.474Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:47:54.371Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:47:54.397Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:48:19.343Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:48:19.364Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:48:25.267Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:48:25.301Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:48:28.883Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:48:28.912Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:48:35.774Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:48:35.794Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:48:40.252Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:48:40.272Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:48:44.297Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:48:44.319Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:48:47.413Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:48:47.424Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:49:35.701Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:49:35.721Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:49:42.514Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:49:42.532Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:49:48.547Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:49:48.576Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:49:54.579Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:49:54.600Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:50:00.982Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:50:01.002Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:50:06.289Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:50:06.320Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:50:10.088Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:50:10.099Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-16T08:52:48.785Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-16T08:52:48.798Z'
+}

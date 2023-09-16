@@ -48,6 +48,18 @@ const exportResult = {
             next(error);
         }
     },
+    async getAllPersons(req, res, next) {
+        try {
+            const persons = await person_service_1.default.findAll(req.body);
+            return res
+                .status(http_status_codes_1.StatusCodes.OK)
+                .json((0, utils_1.success)(persons, "Success", "Successfully got all persons", http_status_codes_1.StatusCodes.OK));
+        }
+        catch (error) {
+            logger_1.default.error(error);
+            next(error);
+        }
+    },
     async updatePerson(req, res, next) {
         const { id } = req.params;
         const { Name } = req.body;

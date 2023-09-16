@@ -52,7 +52,6 @@ exports.UpdatePersonDto = zod_1.z.object({
             .string()
             .min(10, { message: "phonenumber must be at least 10." })
             .optional(),
-        // hobbies: z.array(z.string()).min(0).optional(),
         age: zod_1.z.number().int().min(0).max(100).optional(),
     }),
 });

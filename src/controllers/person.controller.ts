@@ -34,6 +34,7 @@ const exportResult = {
       next(error);
     }
   },
+
   async getPerson(req: Request, res: Response, next: NextFunction) {
     const { id } = req.params;
     const { Name } = req.query;
@@ -60,6 +61,26 @@ const exportResult = {
       next(error);
     }
   },
+
+  async getAllPersons(req: Request, res: Response, next: NextFunction) {
+    try{
+      const persons = await PersonService.findAll(req.body);
+      return res
+      .status(StatusCodes.OK)
+      .json(
+        success(
+          persons,
+          "Success",
+          "Successfully got all persons",
+          StatusCodes.OK
+        )
+      ); 
+      }catch (error) {
+      logger.error(error);
+      next(error);
+    }
+  },
+
   async updatePerson(req: Request, res: Response, next: NextFunction) {
     const { id } = req.params;
     const { Name } = req.body;
@@ -102,6 +123,7 @@ const exportResult = {
       next(error);
     }
   },
+
   async deletePerson(req: Request, res: Response, next: NextFunction) {
     const { id } = req.params;
     const { Name } = req.query;
